@@ -1,11 +1,12 @@
 ---
-title: "Welcome!"
 layout: home
 permalink: /
 author_profile: true
 ---
 
-Welcome to my portfolio website! The website is currently under construction. However, feel free to contact me through email or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there. I would be more than happy to meet you.
+<img src="/IMG_0004.jpg" width=800>
+
+Welcome to my portfolio website! The website is currently under construction. However, feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu) or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there as well. I would be more than happy to meet you.
 
 At this moment, I am still pursuing a Data Science/Software Engineer/Machine Learning internship for the upcoming summer, my last summer before graduating from UC Berkeley.
 
