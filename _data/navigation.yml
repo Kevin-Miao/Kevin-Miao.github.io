@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /kup/
+  - title: "Projects and Publictations"
+    url: /kup/
   - title: "More about me"
     url: /kup/
   # - title: "About"
