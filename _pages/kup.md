@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/IMG_0004.jpg" width=800>
+![alttext](/IMG_0004.jpg)
 
 Welcome to my portfolio website! The website is currently under construction. However, feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu) or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there as well. I would be more than happy to meet you.
 
