@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: /kup/
+    url: /
   - title: "Projects and Publications"
-    url: /kup/
+    url: /pub/
   - title: "More about me"
-    url: /kup/
+    url: /personal/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
