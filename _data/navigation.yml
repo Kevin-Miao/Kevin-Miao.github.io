@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects and Publications"
+  - title: "Portfolio"
     url: /pub/
-  - title: "More about me"
+  - title: "Personal"
     url: /personal/
+  - title: "Teaching"
+    url: /teach/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
