@@ -18,10 +18,10 @@
           {% assign author_link = author.home | relative_url %}
         {% endif %}
         <a href="{{ author_link }}">
-          <img src="{{ author_src }}" alt="{{ author.name }}" height="4200" width="4200">
+          <img src="{{ author_src }}" alt="{{ author.name }}" height="100" width="100">
         </a>
       {% else %}
-        <img src="{{ author_src }}" alt="{{ author.name }}" height="4200" width="4200">
+        <img src="{{ author_src }}" alt="{{ author.name }}" height="100" width="100">
       {% endif %}
     </div>
   {% endif %}

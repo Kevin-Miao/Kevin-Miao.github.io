@@ -1,7 +1,13 @@
 ---
-title: "More about me"
+title: "Personal"
 permalink: /personal/
 layout: collection
 ---
 
-## Coming Soon
+## Writing
+
+## Photography
+
+## Reading
+
+## Podcasts

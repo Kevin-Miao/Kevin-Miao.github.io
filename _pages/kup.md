@@ -6,9 +6,8 @@ author_profile: true
 
 ![alttext](/IMG_0004.JPG)
 
-Welcome to my portfolio website! The website is currently under construction. However, feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu) or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there as well. I would be more than happy to meet you.
+This website is currently under construction. Feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu) or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there as well.
 
-Currently, I am working as a Machine Learning/Biomedical Data Science Researcher in Hong Lab at UCSF. At this moment, I will be pursuing a career in Machine Learning after graduation. Feel free to contact me at any time.
 
 
 ### Twitter Feed
