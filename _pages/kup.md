@@ -6,8 +6,12 @@ author_profile: true
 
 ![alttext](/IMG_0004.JPG)
 
-This website is currently under construction. Feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu) or any other platform, such as [LinkedIn](http://www.linkedin.com/in/MiaoK). My resume and other information can be accessed through there as well.
 
+My name is Kevin Miao, a senior at UC Berkeley majoring in Data Science with an emphasis in Biology and minoring in Computer Science. My interests lay in the intersection Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the Radiation Oncology Department at UCSF. More specifically, I am working on creating a Machine Learning algorithm that predicts whether certain cancer patients are at higher risk of being hospitalized or admitted to the E.R. after receiving outpatient chemotherapy. After this project, I hope to start a project that combines this predictive component with a computer vision component.
+
+Additionally, I truly love teaching my favorite two classes at UC Berkeley: Data Structures (CS61BL) as well as Intro into Data Science (Data 8). The resources for these classes have been linked under the [Teaching](/teaching) tab.
+
+This website is currently under construction. Feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu). My resume is available under request!
 
 
 ### Twitter Feed
