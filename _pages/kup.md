@@ -7,7 +7,7 @@ author_profile: true
 ![alttext](/IMG_0004.JPG)
 
 
-My name is Kevin Miao, a senior at UC Berkeley majoring in **Data Science** with an emphasis in Biology and minoring in **Computer Science**. My interests lay in the intersection Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the [Hong Lab](https://honglab.ucsf.edu/#team) at UCSF. More specifically, I am working on creating a Machine Learning algorithm that predicts whether certain cancer patients are at higher risk of being hospitalized or admitted to the E.R. after receiving outpatient chemotherapy. After this project, I hope to start a project that combines this predictive component with a computer vision component.
+My name is Kevin Miao, a senior at UC Berkeley majoring in **Data Science** with an emphasis in Biology and minoring in **Computer Science**. My interests lay in the intersection of Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the [Hong Lab](https://honglab.ucsf.edu/#team) at UCSF. More specifically, I am working on creating a Machine Learning algorithm that predicts whether certain cancer patients are at higher risk of being hospitalized or admitted to the E.R. after receiving outpatient chemotherapy. After this project, I hope to start a project that combines this predictive component with a computer vision component.
 
 Additionally, I truly love teaching my favorite two classes at UC Berkeley: `Data Structures` (CS61BL) as well as `Intro into Data Science` (Data 8). The resources for these classes have been linked under the [Teaching](/teach) tab.
 
