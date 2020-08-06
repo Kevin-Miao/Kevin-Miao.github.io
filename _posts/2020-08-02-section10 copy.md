@@ -1,0 +1,29 @@
+---
+layout: posts61bl
+title:  "Tutoring Section 11: Disjoint Sets and MSTs"
+category: 61bl
+---
+
+## Disjoint Sets and MSTs
+
+Second to last tutoring section this week, you are almost done with CS61BL.
+Today we are going to go over Disjoint Sets and Minimum Spanning Trees.
+Disjoint sets are data structures that focus on keeping track of
+which elements in a certain set belong to each other. We will try to optimize
+this to accommodate for the exhaustive functions: *union* and *find*.
+In order to implement a very efficient UnionFind, we will be using **path compression**
+and **union by height/rank**. This will ultimately yield a very nice O(Mlog*(N)) runtime.
+With this data structure in mind, we can also start finding the minimum spanning tree.
+The tree with the lowest edge weights possible that reaches all the vertices in the Graph.
+For this, we will be running Prim's and Kruskal's algorithms, which heavily depend on the efficient implementation of the UnionFind that we implemented earlier.
+
+
+
+
+**Resources**
+- [Worksheet Week 10](/assets/docs/Worksheet11.pdf)
+- [Worksheet Week 10 Solutions](/assets/docs/Worksheet11Solutions.pdf)
+- [Section Notes Template](/assets/docs/MiniLec11.pdf)
+- [Video Solutions](https://www.youtube.com/playlist?list=PLDMWsWbBOBRKWglUX25EA_JkT1nH6iaMB)
+
+### Note: The tutoring worksheets are property of CS61B(L) and are solely intended for the purpose of personal use.
