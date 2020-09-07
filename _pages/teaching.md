@@ -4,7 +4,7 @@ permalink: /teach/
 layout: collection
 ---
 
-![alttext](/berk.JPG)
+![alttext](/berk.jpg)
 
 
 On each of the pages you will find resources that pertain to the specific class.
