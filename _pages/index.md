@@ -1,11 +1,11 @@
 ---
+Title: "Hello"
 layout: home
 permalink: /
 author_profile: true
 ---
 
-![alttext](/IMG_0004.JPG)
-
+![alttext](/AV3A4033.JPG)
 
 My name is Kevin Miao, a senior at UC Berkeley majoring in **Data Science** with an emphasis in Biology and minoring in **Computer Science**. My interests lay in the intersection of Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the [Hong Lab](https://honglab.ucsf.edu/#team) at UCSF. More specifically, I am working on creating a Machine Learning algorithm that predicts whether certain cancer patients are at higher risk of being hospitalized or admitted to the E.R. after receiving outpatient chemotherapy. After this project, I hope to start a project that combines this predictive component with a computer vision component.
 

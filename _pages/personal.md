@@ -1,5 +1,5 @@
 ---
-title: "Personal"
+title: "About Me"
 permalink: /personal/
 layout: collection
 ---
