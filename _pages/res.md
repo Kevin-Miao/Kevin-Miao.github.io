@@ -45,19 +45,23 @@ Data Science (Data 100) ||||
 
 ### Teaching
 
-For me, teaching has been one of the most rewarding experiences I have had at Berkeley. The challenges of teaching
+For me, teaching has been one of the most rewarding experiences I have had at Berkeley. I have been lucky enough to be part of the course staff of the following two classes.
 
 - **Data 8**
+  - *8 hour tutor and reader* This is my 5th semester being part of the course staff for Data 8 and the 3rd time teaching for it. Irrespective of my long involvement, I feel like that I keep learning new things every rotation of the class.
 - **CS61BL: Data Structures**
-  - *15 hour group tutor* During the summer of 2020, I have
+  - *15 hour group tutor and reader* During the summer of 2020, I have had the opportunity to be teach for Data Structures. I recall it was one class that I was not looking forward to, but this scary expectation was overblown. CS61B was my favorite class and made me think about majoring in Computer Science. It was a good experience and managed to do away with those overblown rumors about Data Structures it being scary.
 
 ## Work Experience
+
+**Under construction**
 
 ## Publications
 * ### [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
 T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, S.R. Ramírez, N.K. Whiteman
 
 
+**I am currently migrating away all of my projects to the project tab. Feel free to check out the projects below in the meantime.**
 ## Projects
 
 * Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
