@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Projects"
-    url: /pj/
+    url: http://project.kevin-miao.com/
   - title: "Teaching"
     url: /teach/
   - title: "About Me"
