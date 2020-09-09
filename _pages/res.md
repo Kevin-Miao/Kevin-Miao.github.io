@@ -5,7 +5,7 @@ layout: collection
 author_profile: true
 ---
 
-[PDF Resume]()
+[PDF Resume](assets/docs/MiaoKevin.pdf)
 
 ## Academics
 
