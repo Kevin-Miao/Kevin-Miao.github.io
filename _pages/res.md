@@ -11,7 +11,7 @@ author_profile: true
 
 > "Computer Science Classes and Students straight up intimidated me."
 
-<span style="font-size:18px;">My time at **UC Berkeley** has been quite an adventure so far. Currently, I am set on graduating in the **spring of 2021** majoring in <b>Computer Science</b> and minoring in <b>Data Science</b>. My GPA is <b>3.834</b> as of now. Prior to coming to Berkeley, I had gotten into *University of Leiden*'s medical program. Instead I chose Berkeley, I was set on majoring in Biology and Latin. After my first DS class, it was astonishing to me how Data Inference and Machine Learning worked and declared Data Science as major. During senior year, I realized that it was not Data Science but Computer Science that I fell in love with. It straight up intimidated me my first years and that is why I had avoided it. But, recently I took the switch and declared CS officially, a decision that I do not regret. *My current goal is to go to graduate school and then eventually end up in the industry as a Machine Learning/Software Engineer.*</span>
+<span style="font-size:18px;">My time at **UC Berkeley** has been quite an adventure so far. Currently, I am set on graduating in the **spring of 2021** majoring in <b>Computer Science</b>. My GPA is <b>3.838</b> as of now. Prior to coming to Berkeley, I had gotten into *University of Leiden*'s medical program. Instead I chose Berkeley, I was set on majoring in Biology and Latin. After my first DS class, it was astonishing to me how Data Inference and Machine Learning worked and declared Data Science as major. During senior year, I realized that it was not Data Science but Computer Science that I fell in love with. It straight up intimidated me my first years and that is why I had avoided it. But, recently I took the switch and declared CS officially, a decision that I do not regret. *My current goal is to go to graduate school and then eventually end up in the industry as a Machine Learning/Software Engineer.*</span>
 
 ### Coursework
 
@@ -66,6 +66,7 @@ T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, 
 
 * [Research] Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
 * [Research] Deep Learning and Medical Imaging
+* Monday.com: Campaign and Machine Learning
 * Object Recognition
 * Project Vejovis: Corona Forecasting
 * PayPal Employee Engagement

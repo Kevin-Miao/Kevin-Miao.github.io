@@ -13,6 +13,8 @@ At the **Hong Lab**, I am working on creating Machine Learning algorithms that p
 
 Besides actively engaging with Machine Learning, I truly love teaching it too. I have been engaged on the course staff at UC Berkeley for the following two courses: `Data Structures` (CS61BL) as well as `Intro into Data Science` (Data 8). The resources for these classes have been linked under the [Teaching](/teach) tab.
 
+Lastly, I like being active within the UC Berkeley Data Science Community too. As of now, I have been a **project manager** for two semesters now. A project manager oversees and manages a group of approximately 6 consultants for **machine learning** projects with different companies. Currently, I am working with series-D funded startup **Monday.com**.
+
 **This website is currently under construction.** Feel free to contact me through [email](mailto:kevinmiao@berkeley.edu) (kevinmiao@berkeley.edu). My resume is available upon request! My apologies for the inconvenience.
 
 
