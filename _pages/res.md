@@ -64,7 +64,8 @@ T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, 
 **I am currently migrating away all of my projects to the project tab. Feel free to check out the projects below in the meantime.**
 ## Projects
 
-* Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
+* [Research] Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
+* [Research] Deep Learning and Medical Imaging
 * Object Recognition
 * Project Vejovis: Corona Forecasting
 * PayPal Employee Engagement
