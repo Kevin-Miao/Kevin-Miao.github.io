@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume"
-    url: /resume/
+  - title: "Experience"
+    url: /experience/
   # - title: "Projects"
   #   url: http://project.kevin-miao.com/
   - title: "Teaching"
