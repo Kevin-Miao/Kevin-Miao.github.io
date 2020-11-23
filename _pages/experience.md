@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-permalink: /resume/
+title: "Experience"
+permalink: /experience/
 layout: collection
 author_profile: true
 ---
