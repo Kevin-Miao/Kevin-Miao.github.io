@@ -5,7 +5,7 @@ layout: collection
 author_profile: true
 ---
 
-[PDF Resume](/assets/docs/MiaoKevin.pdf)
+[PDF CV](/assets/docs/Kevin-Miao-CV.pdf)
 
 ## Academics
 
@@ -48,13 +48,14 @@ Data Science (Data 100) ||||
 For me, teaching has been one of the most rewarding experiences I have had at Berkeley. I have been lucky enough to be part of the course staff of the following two classes.
 
 - **Data 8**
-  - *8 hour tutor and reader* This is my 5th semester being part of the course staff for Data 8 and the 3rd time teaching for it. Irrespective of my long involvement, I feel like that I keep learning new things every rotation of the class.
+  - *8 hour uGSI* This is my 6th semester being part of the course staff for Data 8 and the 3rd time teaching for it. Irrespective of my long involvement, I feel like that I keep learning new things every rotation of the class.
 - **CS61BL: Data Structures**
   - *15 hour group tutor and reader* During the summer of 2020, I have had the opportunity to be teach for Data Structures. I recall it was one class that I was not looking forward to, but this scary expectation was overblown. CS61B was my favorite class and made me think about majoring in Computer Science. It was a good experience and managed to do away with those overblown rumors about Data Structures it being scary.
 
 ## Work Experience
 
-**Under construction**
+- **Monday.com**: ML Consultant
+- **PayPal**: Data Science Consultant
 
 ## Publications
 * ### [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
@@ -65,9 +66,8 @@ T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, 
 ## Projects
 
 * [Research] Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
-* [Research] Deep Learning and Medical Imaging
+* [Research] Explainability of Deep Learning Models in Medical Contexts
 * Monday.com: Campaign and Machine Learning
-* Object Recognition
 * Project Vejovis: Corona Forecasting
 * PayPal Employee Engagement
 * Restaurant Manager
