@@ -15,7 +15,7 @@ author_profile: true
 
 ### Coursework
 
-Access to academic projects: [Projects](/pj)
+<!-- Access to academic projects: [Projects](/pj) -->
 
 <!-- Sequence   | Result                                                        |
 |-------------|---------------------------------------------------------------|
