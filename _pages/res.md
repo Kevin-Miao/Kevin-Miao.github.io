@@ -61,6 +61,10 @@ For me, teaching has been one of the most rewarding experiences I have had at Be
 * ### [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
 T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, S.R. Ramírez, N.K. Whiteman
 
+## Talks
+* [Data Ethics](/assets/docs/DataEthics.pdf) P. Eega, K. Miao
+* [Linear Regression](/assets/docs/Regression.pdf) P. Eega, K. Miao
+
 
 **I am currently migrating away all of my projects to the project tab. Feel free to check out the projects below in the meantime.**
 ## Projects
