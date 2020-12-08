@@ -7,7 +7,7 @@ author_profile: true
 
 ![alttext](/AV3A4033.JPG)
 
-My name is Kevin Miao, a senior at UC Berkeley majoring in **Computer Science Science** with an extensive background in Data Science and Bioinformatics. My interests lay in the intersection of Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the [Hong Lab](https://honglab.ucsf.edu/#team) at UCSF as well as the [Berkeley RISE Lab](https://rise.cs.berkeley.edu/).
+My name is Kevin Miao, a senior at UC Berkeley majoring in **Computer Science** with an extensive background in Data Science and Bioinformatics. My interests lay in the intersection of Medicine/Biology and Machine Learning/Computer Vision. Currently, I am involved at the [Hong Lab](https://honglab.ucsf.edu/#team) at UCSF as well as the [Berkeley RISE Lab](https://rise.cs.berkeley.edu/).
 
 At the **Hong Lab**, I am working on creating Machine Learning algorithms that predicts whether high risk patients will end up in the hospital after receiving outpatient chemotherapy. Currently, we are wrapping up the paper and are expected to test this out in the clinic. Under the **Rise Lab**, I am working with Suzie Petryk (PhD student under Joseph Gonzalez) with working on constructing new Deep Learning frameworks useful in  the Medical Imaging field.
 
