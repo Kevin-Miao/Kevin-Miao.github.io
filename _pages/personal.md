@@ -19,7 +19,7 @@ Here below I have shared with you some sources that I truly enjoy or works that 
 ## Photography
 
 
-<img src='/IMG_5576.jpg' width=500px>
+<img src='/IMG_5576.JPG' width=500px>
 <img src='/josh.JPEG' width=300px>
 
 
