@@ -39,7 +39,7 @@ Here below I have shared with you some sources that I truly enjoy or works that 
 
 **Dutch**
 - [Mark Rutte by Petra Koning](https://www.bol.com/nl/p/mark-rutte/9300000005322351/?bltgh=urtYdPhE73OlHQODb9VCjA.1_4.5.ProductTitle)
-- [Breekwater by Syben Polet](https://www.bol.com/nl/f/breekwater/30010161/)
+- [Breekwater by Sybren Polet](https://www.bol.com/nl/f/breekwater/30010161/)
 
 
 ## Podcasts
