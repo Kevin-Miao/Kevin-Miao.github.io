@@ -12,7 +12,7 @@ You will find worksheets, notes and solutions. Please note that some of the reso
 
 ## Spring 2021
 #### Introduction into Data Science
-<a href="/categories/d8sp21/"><img src="/DATA8SP21.png" width="300"></a>
+<a href="/categories/d8sp21/"><img src="/sp21.png" width="300"></a>
 
 ## Fall 2020
 #### Introduction into Data Science
