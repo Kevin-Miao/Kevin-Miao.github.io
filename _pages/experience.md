@@ -5,15 +5,19 @@ layout: collection
 author_profile: true
 ---
 
+![alttext](/progr.jpg)
+
+
+[Resume will be up soon]()
+
 [PDF CV](/assets/docs/Kevin-Miao-CV.pdf)
 
-## Academics
+# Academics
 
-> "Computer Science Classes and Students straight up intimidated me."
+<span style="font-size:18px;"> I will be graduating from UC Berkeley in the **spring of 2021** majoring in <b>Computer Science</b>. My GPA is <b>3.86</b> as of now. Prior to coming at Berkeley, I had always thought of myself as a biologist. During my sophomore year, I fell in love with the intricacies of the field of Machine Learning. Having never coded before, I was intimidated at first yet my curiosity driven by the problems of AI and the excitement powered by the endless possible applications overcame the initial challenges that I faced.
+</span>
 
-<span style="font-size:18px;">My time at **UC Berkeley** has been quite an adventure so far. Currently, I am set on graduating in the **spring of 2021** majoring in <b>Computer Science</b>. My GPA is <b>3.838</b> as of now. Prior to coming to Berkeley, I had gotten into *University of Leiden*'s medical program. Instead I chose Berkeley, I was set on majoring in Biology and Latin. After my first DS class, it was astonishing to me how Data Inference and Machine Learning worked and declared Data Science as major. During senior year, I realized that it was not Data Science but Computer Science that I fell in love with. It straight up intimidated me my first years and that is why I had avoided it. But, recently I took the switch and declared CS officially, a decision that I do not regret. *My current goal is to go to graduate school and then eventually end up in the industry as a Machine Learning/Software Engineer.*</span>
-
-### Coursework
+# Coursework
 
 <!-- Access to academic projects: [Projects](/pj) -->
 
@@ -33,51 +37,80 @@ author_profile: true
 |             | character.                                                    |
 |-------------|---------------------------------------------------------------| -->
 
-**Technical** | **Mathematics and Statistics** | **Science** | **Breadth** |
-**Currently** Machine Learning (CS189)|Discrete Math (CS70)| Organic Chemistry (CHEM1A+3A) | Science, Technology and Society (HIST182A)|
-**Currently** Computer Vision & &nbsp;&nbsp;&nbsp; Computational Photography (CS294)| Linear Algebra (Math 54)| Biology (Bio 1A+1B) | Technology and Ethics (HISTC184D)|
-Data Structures (CS61BL) | Statistics (Stat 140)| Genetics (MCB140)||
-Computer Programs (CS61C) | Data Inference (UGBA 96)|||
-Computer Architecture (CS88+47A) ||||
-Algorithms (CS170) ||||
-Artificial Intelligence (CS180) ||||
-Data Science (Data 100) ||||
+Below here you can find a selection of relevant classes:
 
-### Teaching
+**AI/ML/CV**: Data Sciences (Data 8, 100), Artificial Intelligence (CS188), Machine Learning (CS189), Deep Learning (CS182), Full-Stack Deep Learning (CS194-80), Computer Vision & Computational Photography (CS194-26)
 
-For me, teaching has been one of the most rewarding experiences I have had at Berkeley. I have been lucky enough to be part of the course staff of the following two classes.
+**Other Computer Science**: Computational Structures (CS88+CS47A equivalent to CS61A), Data Structures (CS61B), Computer Architecture (CS61C), Discrete Mathematics and Probability (CS70), Efficient Algorithms (CS170), Designing Information Systems (EE16B)
 
-- **Data 8**
-  - *8 hour uGSI* This is my 6th semester being part of the course staff for Data 8 and the 3rd time teaching for it. Irrespective of my long involvement, I feel like that I keep learning new things every rotation of the class.
+**Mathematics and Statistics**: Probability for Data Science (STAT140), Linear Algebra (MATH54)
+
+**Expertise**:
+* **Business**: Data and Business (UGBA 96), Future of Industry/Innovation (INDENG 190)
+* **Ethics**: Data Ethics (DATA 104), Science Technology Society (HIST182A)
+* **Biology**: Introductory Biology (Biology 1AB), Genetics (MCB140)
+* **Chemistry**: Introductory Chemistry (CHEM1A/L), Organic Chemistry (CHEM3A/L)
+
+# Teaching
+
+Teaching has been one of the most rewarding experiences I have had at Berkeley. I have been lucky enough to be part of course staff for the following two classes.
+
+- **Data 8: Data Science**
+  - *Jan 2019 - Present* (6 terms)
+  - Currently, I am a **uGSI** (undergraduate student instructor/TA) for one of the largest undergraduate courses at Berkeley having around 1,300 students per semester. The impact of Data Science is enormous and instructing the new generation of leaders in the field is a great honor.
 - **CS61BL: Data Structures**
-  - *15 hour group tutor and reader* During the summer of 2020, I have had the opportunity to be teach for Data Structures. I recall it was one class that I was not looking forward to, but this scary expectation was overblown. CS61B was my favorite class and made me think about majoring in Computer Science. It was a good experience and managed to do away with those overblown rumors about Data Structures it being scary.
+  - *Summer 2020* (1 term)
+  - During the summer of 2020, I had the opportunity to be a *15 hour Tutor* for CS61B. Teaching this class, which is more conceptually difficult and hands-on, has shown me the diversity of creativity that all can lead to efficient programming. It also allowed me to more easily understand the thought process behind someone's code.
 
-## Work Experience
+## Research Experience
 
-- **Monday.com**: ML Consultant
-- **PayPal**: Data Science Consultant
+- **Berkeley RISE** (Sep 2020 - Present): Deep Learning Research under Dr. Gonzalez
+  - Classification of High Risk Cancer Patients [pre-print coming soon]()
+- **UCSF** (Dec 2019 - Present): Bioinformatics Research under Dr. Hong
+  - Explainability of Deep Learning Models used for Lung Diagnoses through Classification and Segmentation
 
-## Publications
-* ### [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
+- **Whiteman Laboratory** (Jun 2018 - Jan 2020): Biology Research under Dr. Whiteman and Dr. Matsunaga
+  - [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
 T. Matsunaga, C.E. Reisenman, B. Goldman-Huertas, P. Brand, K. Miao, H. Suzuki, S.R. Ramírez, N.K. Whiteman
 
+
+## Professional Experience
+
+- **Monday.com** (Fall 2020): ML Consultant
+  - Creating Machine Learning Pipeline to Automate Marketing Strategy
+  - Data-Driven Recommendations for User Retainment
+- **PayPal** (Fall 2019): Data Science Consultant
+  - Data Analysis (NLP) to Improve Employee Engagement
+  - Data Engineering for Development of Dashboards
+
+Please let me know if you want to know more about my responsibilities at those companies.
+
 ## Talks
-* [Data Ethics](/assets/docs/DataEthics.pdf) P. Eega, K. Miao
-* [Linear Regression](/assets/docs/Regression.pdf) P. Eega, K. Miao
+* [Data Ethics](/assets/docs/DataEthics.pdf)
+* [Linear Regression](/assets/docs/Regression.pdf)
 
 
-**I am currently migrating away all of my projects to the project tab. Feel free to check out the projects below in the meantime.**
 ## Projects
 
-* [Research] Classification of High Risk Patients after Outpatient Chemotherapy (In Progress)
-* [Research] Explainability of Deep Learning Models in Medical Contexts
-* Monday.com: Campaign and Machine Learning
-* Project Vejovis: Corona Forecasting
-* PayPal Employee Engagement
-* Restaurant Manager
-* MRI Alzheimers
+### Computer Vision Projects
 
-### Academic
+Feel free to browse through my **Computer Vision Portfolio**
+
+- [Imagine Alignment](https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj1/cs194-26-aac/)
+- [Blending](http://kevin-miao.com/CS194-proj2/)
+- [Morphing](https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj3/cs194-26-aac/)
+- [Neural Face Detection](https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj4/cs194-26-aac/)
+- [Automatic Image Stitching](https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj5B/cs194-26-aac/)
+- [Neural Style Transfer](http://kevin-miao.com/194-final-proj/)
+- [Lightfield Camera](http://kevin-miao.com/194-final-proj/)
+
+### Personal Projects
+
+* Project Vejovis: Corona Forecasting
+* Restaurant Manager: Online Reservation Tool used by my parents for their restaurant (around 400 person max capacity)
+* MRI Alzheimers: Using Neural Networks to predict MRI severity
+
+### Other Class Projects
 
 Unfortunately, I cannot publish the source code for academic projects on the internet.
 If interested in learning more, please contact me.
@@ -85,6 +118,8 @@ If interested in learning more, please contact me.
 <sub><b>Abbreviations:</b></sub>
 <sub>ML Machine Learning - AI Artificial Intelligence - SWE Software Engineering and Optimization</sub>
 
+* [ML] Data Cleaning and Pandas Online Course (CS189)
+* [ML] PyTorch/Tensorflow Course Online Course (CS189)
 * [ML] Handwritten Digit Classifier (CS188)
 * [AI] Reinforcement Learning (CS188)
 * [SWE] Optimization Project (CS170)
