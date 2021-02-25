@@ -65,9 +65,9 @@ Teaching has been one of the most rewarding experiences I have had at Berkeley. 
 ## Research Experience
 
 - **Berkeley RISE** (Sep 2020 - Present): Deep Learning Research under Dr. Gonzalez
-  - Classification of High Risk Cancer Patients [pre-print coming soon]()
+  - Explainability of Deep Learning Models used for Lung Diagnoses through Classification and Segmentation  
 - **UCSF** (Dec 2019 - Present): Bioinformatics Research under Dr. Hong
-  - Explainability of Deep Learning Models used for Lung Diagnoses through Classification and Segmentation
+  - Classification of High Risk Cancer Patients [pre-print coming soon]()
 
 - **Whiteman Laboratory** (Jun 2018 - Jan 2020): Biology Research under Dr. Whiteman and Dr. Matsunaga
   - [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
