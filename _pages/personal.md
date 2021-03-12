@@ -32,7 +32,7 @@ Here below I have shared with you some sources that I truly enjoy or works that 
 
 **English**
 - [Misbehaving: The Making of Behavioral Economics by R Thaler](https://www.google.com/books/edition/Misbehaving_The_Making_of_Behavioral_Eco/xQedBAAAQBAJ?hl=en&gbpv=0)
-- [Human Compatiable by Stuart Russell](https://www.google.com/books/edition/Human_Compatible/8vm0DwAAQBAJ?hl=en&gbpv=0)
+- [Human Compatible by Stuart Russell](https://www.google.com/books/edition/Human_Compatible/8vm0DwAAQBAJ?hl=en&gbpv=0)
 - [Dreams from my Father by Barack Obama](https://www.google.com/books/edition/Dreams_from_My_Father/HRCHJp-V0QUC?hl=en&gbpv=1&dq=obama+from+my+father&printsec=frontcover)
 - [A History of the World in 6 Glasses by Tom Standage](https://www.google.com/books/edition/A_History_of_the_World_in_Six_Glasses/-0t1nFKe0ZgC?hl=en&gbpv=1&dq=A+History+of+the+World+in+6+Glasses&printsec=frontcover)
 - [Uncanny Valley by Anna Wiener](https://www.amazon.com/Uncanny-Valley-Memoir-Anna-Wiener/dp/0374278016)
